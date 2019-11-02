@@ -1,10 +1,8 @@
 Name : Angel 
 
-+-----------+-----------------------------+
-| Language  | Java? C++? -> OOP           |
-+-----------+-----------------------------+
-| Urgent    | No (discord is good enough) |
-+-----------+-----------------------------+
+| Language | Java? C++? -> OOP |
+|:---:|:---:|
+| Urgent | No (discord is good enough) |
 
 # Ideas
 

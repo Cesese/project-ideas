@@ -95,6 +95,7 @@ I think it'd be better to make it so you need to change the code and recompile t
 
 # Object example
 
+```java
 Class IRC-server {
     
     Attributes :
@@ -130,4 +131,4 @@ Class IRC-server {
         }
     
 }
-
+```
