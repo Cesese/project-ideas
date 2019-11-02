@@ -100,9 +100,9 @@ Class IRC-server {
     
     Attributes :
     
-    - private Address (IPV4, IPV6)
+    - private Address // (IPV4, IPV6)
     - private Port
-    - private User (username, password, ... there might be differences between protocols, like on IRC password is not always mandatory, also if we use OMEMO we need the OMEMO keys, etc...)
+    - private User // (username, password, ... there might be differences between protocols, like on IRC password is not always mandatory, also if we use OMEMO we need the OMEMO keys, etc...)
     
     Methods :
     
